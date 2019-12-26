@@ -1,0 +1,42 @@
+body{
+    width:100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    text-align: center;
+    margin:70px auto;
+    width:50%;
+}
+
+p{
+    font-size: 20px;
+    color:#818890;
+}
+
+div{
+    display: flex;
+    justify-content: space-around;
+    margin:80px;
+}
+
+div section{
+    margin:20px 5px;
+    padding:30px;
+    border:1px lightgray solid;
+    width:25%;
+    border-radius: 10px;
+}
+
+div img{
+    width:130px;
+}
+
+button{
+    background-color: #a7c903;
+    color:#f7f2f1;
+    padding:15px 30px;
+    border-radius: 10px;
+    font-size: 17px;
+    box-shadow: 10px 10px 20px #e8e2fe
+}
